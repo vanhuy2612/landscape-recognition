@@ -1,0 +1,19 @@
+{
+  "name": "landscape-recognition",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanhuy2612/landscape-recognition.git"
+  },
+  "author": "Huy, Duong, Trinh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vanhuy2612/landscape-recognition/issues"
+  },
+  "homepage": "https://github.com/vanhuy2612/landscape-recognition#readme"
+}
